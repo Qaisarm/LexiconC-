@@ -20,7 +20,7 @@ namespace DatesAndTimes
 
             //To add days in the Current days
             Console.WriteLine(myValue.AddDays(3).ToLongDateString());
-            //To add Hours in the Current days
+            //To add Hours in the Current days Time
             Console.WriteLine(myValue.AddHours(3).ToLongTimeString());
 
             //To Subtract days from the Current day
