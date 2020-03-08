@@ -53,7 +53,7 @@ namespace WorkingWithStrings
                 myString += "--" + i.ToString();
             }
             */
-
+            // Use of String Builder for formating Strings
             StringBuilder myString
                  = new StringBuilder();
             for (int i = 0; i < 50; i++)
